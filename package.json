@@ -1,5 +1,5 @@
 {
-  "name": "ololo",
+  "name": "clock",
   "version": "1.0.0",
   "description": "some kek",
   "main": "index.html",
@@ -10,7 +10,7 @@
     "zip": "gulp deployZip --build",
     "clean": "gulp cleanBuild"
   },
-  "author": "kek",
+  "author": "Игорь Добрянский",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.27.10",
